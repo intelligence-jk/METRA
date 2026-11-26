@@ -1,4 +1,6 @@
-# units-checker
+# METRA: Measure-Error Tracker for Real Answers
+
+Formerly `units-checker`.
 
 Units and dimensions checker for school physics and maths.
 
